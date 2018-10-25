@@ -15,4 +15,4 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 
 [contributing.md]: CONTRIBUTING.md
 [laymonage]: https://github.com/laymonage
-[arnastria]: https://githubmcom/arnastria
+[arnastria]: https://github.com/arnastria
