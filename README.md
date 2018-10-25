@@ -11,6 +11,7 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 | No. | Nama | Angkatan | Jurusan |
 | --- | ---- | -------- | ------- |
 | 1.  | [Sage Muhammad Abdullah][laymonage] | 2017 | Ilmu Komputer |
+| 2.  | [Ramawajdi Kanishka Anwar[ramawajdika] | 2017 | Sistem Informasi |
 
 [contributing.md]: CONTRIBUTING.md
 [laymonage]: https://github.com/laymonage
