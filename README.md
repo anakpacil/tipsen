@@ -26,3 +26,4 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 [azharaiz]: https://github.com/azharaiz
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
 [nuga99]: https://github.com/nuga99
+
