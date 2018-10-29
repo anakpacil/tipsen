@@ -25,3 +25,4 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 [giovanism]: https://github.com/giovanism
 [azharaiz]: https://github.com/azharaiz
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
+[annafis1]: https://github.com/annafis1
