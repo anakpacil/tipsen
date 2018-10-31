@@ -16,7 +16,7 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 | 4.  | [Giovan Isa Musthofa][giovanism]          | 2017     | Ilmu Komputer    |
 | 5.  | [Muhammad Azhar Rais Zulkarnain][azharaiz]| 2017     | Ilmu Komputer    | 
 | 6.  | [Ahmad Fauzan A.I.][ahmad-fauzan458]      | 2017     | Ilmu Komputer    | 
-| 7.  | [Athallah Annafis][annafis1]			  | 2017	 | Ilmu Komputer	| 
+| 7.  | [Athallah Annafis][annafis1]              | 2017     | Ilmu Komputer    | 
 
 [contributing.md]: CONTRIBUTING.md
 [laymonage]: https://github.com/laymonage
