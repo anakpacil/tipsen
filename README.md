@@ -18,6 +18,7 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 | 6.  | [Ahmad Fauzan A.I.][ahmad-fauzan458]      | 2017     | Ilmu Komputer    |
 | 7.  | [Muhammad Ardivan Satrio Nugroho][nuga99] | 2017     | Ilmu Komputer    |
 | 8.  | [Athallah Annafis][annafis1]              | 2017     | Ilmu Komputer    |
+| 9.  | [Ahmad Supriyanto][butterchoco]           | 2017     | Ilmu Komputer    |
 
 [contributing.md]: CONTRIBUTING.md
 [laymonage]: https://github.com/laymonage
@@ -28,3 +29,4 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
 [nuga99]: https://github.com/nuga99
 [annafis1]: https://github.com/annafis1
+[butterchoco]: https://github.com/butterchoco
