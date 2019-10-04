@@ -31,4 +31,4 @@ Untuk berkontribusi, silakan lihat [CONTRIBUTING.md][contributing.md].
 [nuga99]: https://github.com/nuga99
 [annafis1]: https://github.com/annafis1
 [butterchoco]: https://github.com/butterchoco
-[gagahpangeran]: https://github.com/gagahpangeran/
+[gagahpangeran]: https://github.com/gagahpangeran
